@@ -1,0 +1,23 @@
+table {
+  border-spacing: 0px;
+}
+
+td {
+  background: gray;
+  height: 25px;
+  width: 25px;
+}
+
+.room {
+  background: lightgray;
+  height: 25px;
+  width: 25px;
+}
+
+.debug {
+  background: red;
+}
+
+.blue {
+  background: blue;
+}
